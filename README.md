@@ -1,3 +1,6 @@
+# Express / PostgreSQL exercise learning experiment
+This project was part of just learning about express and PostgreSQL and some of the basic capabilities
+
 ### Prerequisites
 - PostgreSQL installed ([setup instructions](https://www.postgresqltutorial.com/install-postgresql//))
 
