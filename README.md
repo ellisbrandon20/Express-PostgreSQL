@@ -10,7 +10,9 @@ Install packages:
 
 `npm install`
 
-Create docs *configurations.js* file in main directory and copy the below configs and replace them with appropraite information for your database ([database setup instructions](https://www.postgresqltutorial.com/connect-to-postgresql-database/)) 
+
+#### Optional
+You can use the one already provided or create *configurations.js* file in main directory and copy the below configs and replace them with appropraite information for your database ([database setup instructions](https://www.postgresqltutorial.com/connect-to-postgresql-database/)) 
 
     const user = 'me';
     const host = 'localhost';

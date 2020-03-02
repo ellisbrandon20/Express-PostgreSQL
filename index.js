@@ -1,6 +1,8 @@
 const express = require('express');
 const bodyParser = require('body-parser');
 const DB = require('./queries');
+// load all env variables from .env file into process.env object.
+require('dotenv').config();
 
 const app = express();
 const port = 3000;
